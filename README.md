@@ -50,4 +50,4 @@
 
 </p></details>
 
-> This bio is heavily inspired by [SecondThundeR's bio](https://raw.githubusercontent.com/SecondThundeR/)
+> This bio is heavily inspired by [SecondThundeR's bio](https://github.com/SecondThundeR/)
