@@ -11,7 +11,7 @@
 - 🙋‍♂️ My name is Oleg (Олег)
 - 🏠 I'm currently living in **Lutsk, Ukraine**
 - 🗣 My main language is Ukranian, but in most cases, I'm trying to use **English**
-- 💕 I am very passionate about indie projects and artifical intelligence arts, combining this **with enjoyable music** and **handwork**
+- 💕 I am very passionate about indie projects and ai art, combining this **with enjoyable music** and **handwork**
 - 👨‍🎓 Can't get the **Github Student Developer Pack**, because of Github stupid system
 
 </p>
@@ -31,7 +31,7 @@
 - 🛠️ Check out some of my projects:
   - [StableDiffusion Stuff](https://sd.itsolegdm.com/) — Some of my tips for Stable DIffusion
   - [api.itsolegdm.com](https://docs.itsolegdm.com/) — My API (i really need to finish writing my docs)
-  - [PNG Info Telegam bot](https://t.me/pnginfobot/) — Telegram bot to get Stable DIffusion metadata from images
+  - [PNG Info bot](https://t.me/pnginfobot/) — Telegram bot to get Stable DIffusion metadata from images
   - [itsolegdm.com](https://itsolegdm.com/) — Just my personal website
 
 </p></details>
