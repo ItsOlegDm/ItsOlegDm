@@ -12,7 +12,7 @@
 - 🏠 I'm currently living in **Lutsk, Ukraine**
 - 🗣 My main language is Ukranian, but in most cases, I'm trying to use **English**
 - 💕 I am very passionate about indie projects and ai art, combining this **with enjoyable music** and **handwork**
-- 👨‍🎓 Can't get the **Github Student Developer Pack**, because of Github stupid system
+- 👨‍🎓 Finally got **Github Student Developer Pack** after forcing the university to make me a school-issued email adress just because my student ID isn't enough for github.
 
 </p>
 
