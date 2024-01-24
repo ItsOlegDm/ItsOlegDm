@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ItsOlegDm&show_icons=true&title_color=de6161&icon_color=de6161&count_private=true&theme=dracula&include_all_commits=false&custom_title=ItsOlegDm%27s%20GitHub%20Stats&hide=stars" /> </p>
+<img src="https://github-readme-stats-six-liart-63.vercel.app/api?username=ItsOlegDm&show_icons=true&title_color=de6161&icon_color=de6161&count_private=true&theme=dracula&include_all_commits=false&custom_title=ItsOlegDm%27s%20GitHub%20Stats&hide=stars" /> </p>
 <strong>About me</strong>
 
 - 🙋‍♂️ My name is Oleg (Олег)
