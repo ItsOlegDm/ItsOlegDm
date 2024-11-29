@@ -31,7 +31,6 @@
 - 🛠️ Check out some of my projects:
   - [StableDiffusion Stuff](https://sd.itsolegdm.com/) — Some of my tips for Stable DIffusion
   - [Foxgirls.club](https://foxgirls.club) — [nekos.life](https://nekos.life) but with foxgirls
-  - [api.itsolegdm.com](https://docs.itsolegdm.com/) — My API (i really need to finish writing my docs)
   - [PNG Info bot](https://t.me/pnginfobot/) — Telegram bot to get Stable DIffusion metadata from images
   - [itsolegdm.com](https://itsolegdm.com/) — Just my personal website
 
